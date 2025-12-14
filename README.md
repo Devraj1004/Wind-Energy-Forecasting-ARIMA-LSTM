@@ -90,6 +90,9 @@ Wind_energy_prediction/
 │
 └── README.md
 ```
+## Download Large Models
+The ARIMA model file (`Results/arima_model.pkl`) is large (>100 MB) and not included in this repo.  
+You can download it: **https://drive.google.com/file/d/1JWcHl_k2heFLDaaFDnlV5g4AWypW_kBX/view?usp=drive_link**
 
 ---
 
