@@ -139,8 +139,8 @@ The **Hybrid ARIMA + LSTM model** demonstrates superior performance by reducing 
 
 ## 👨‍💻 Author
 
-**Devraj D. Korgaonkar**
-B.Tech CSE (AI & ML)
+**Devraj D. Korgaonkar** |
+B.Tech CSE (AI & ML) |
 Guru Nanak Institutions Technical Campus
 
 ---
